@@ -1,0 +1,7 @@
+{
+    "application" :{
+        "logpath" :"./logs/",
+        "dataPath" :"cities.csv"
+
+    }
+}
